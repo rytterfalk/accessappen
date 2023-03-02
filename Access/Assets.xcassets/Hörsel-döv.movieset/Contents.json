@@ -1,0 +1,22 @@
+{
+  "movies" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Döv.mov",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Döv.mov",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
